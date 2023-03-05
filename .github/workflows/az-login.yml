@@ -3,6 +3,7 @@
 name: Az CLI Login using OIDC
 
 on:
+  workflow_dispatch:
   workflow_call:
     secrets:
       AZURE_TENANT_ID:
