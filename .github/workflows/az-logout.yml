@@ -1,6 +1,7 @@
 name: Az CLI Logout using OIDC
 
 on:
+  workflow_dispatch:
   workflow_call:
 
 permissions:
