@@ -1,0 +1,11 @@
+{
+    "name": "Workflow: Az CLI Login using OIDC",
+    "description": "Az CLI Login using OIDC",
+    "iconName": "octicon cloud",
+    "categories": [
+        "Azure"
+    ],
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
