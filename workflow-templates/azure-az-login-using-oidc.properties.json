@@ -4,8 +4,5 @@
     "iconName": "octicon cloud",
     "categories": [
         "Azure"
-    ],
-    "filePatterns": [
-        ".*\\.md$"
     ]
 }
